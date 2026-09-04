@@ -1,0 +1,25 @@
+{
+ "content": null,
+ "creation": "2024-01-01 00:00:00.000000",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-01-01 00:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Custom POS",
+ "name": "custom_pos",
+ "owner": "Administrator",
+ "page_name": "custom_pos",
+ "roles": [
+  {
+   "role": "Point of Sale User"
+  },
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "title": "نقطة البيع المخصصة"
+}
